@@ -1,0 +1,54 @@
+SPECIES,STOCK,LOWER,UPPER,DISTRICT
+Chum Salmon,Humpy Creek,300,1000,Southern
+Chum Salmon,Port Graham River,600,2000,Southern
+Chum Salmon,Seldovia River,600,2000,Southern
+Chum Salmon,Dogfish Lagoon Creeks,4200,7700,Outer
+Chum Salmon,Island Creek,5700,10400,Outer
+Chum Salmon,Middle Creek,500,900,Outer
+Chum Salmon,Petrof River,600,1100,Outer
+Chum Salmon,Port Chatham Creeks,300,600,Outer
+Chum Salmon,Port Dick Creek,2200,4000,Outer
+Chum Salmon,Rocky River,2900,5200,Outer
+Chum Salmon,Slide Creek,1200,2100,Outer
+Chum Salmon,Big Kamishak River,7900,18100,Kamishak
+Chum Salmon,Bruin River,5200,12000,Kamishak
+Chum Salmon,Cottonwood Creek,4400,10100,Kamishak
+Chum Salmon,Douglas River,1700,3900,Kamishak
+Chum Salmon,Iniskin River,6300,14500,Kamishak
+Chum Salmon,Little Kamishak River,8100,18600,Kamishak
+Chum Salmon,McNeil River,24000,48000,Kamishak
+Chum Salmon,Sugarloaf Creek,800,1900,Kamishak
+Chum Salmon,Sunday Creek,700,1600,Kamishak
+Chum Salmon,Ursus Lagoon Creeks,4700,10900,Kamishak
+Pink Salmon,Barabara Creek,3200,7000,Southern
+Pink Salmon,China Poot Creek,2400,5300,Southern
+Pink Salmon,Humpy Creek,25700,56500,Southern
+Pink Salmon,Port Graham River,7700,19700,
+Pink Salmon,Seldovia River,18700,41100,Southern
+Pink Salmon,Tutka Creek,6500,17000,
+Pink Salmon,Desire Lake,4800,10700,Outer
+Pink Salmon,Dogfish Lagoon Creeks,3600,8000,Outer
+Pink Salmon,Island Creek,13300,29800,Outer
+Pink Salmon,James Lagoon Streams,2000,4600,Outer
+Pink Salmon,Middle Creek,2700,6000,Outer
+Pink Salmon,Port Chatham Creeks,8800,19800,Outer
+Pink Salmon,Port Dick Creek,23800,53400,Outer
+Pink Salmon,Rocky River,13900,31200,Outer
+Pink Salmon,Slide Creek,7200,16100,Outer
+Pink Salmon,South Nuka Island Creek,1300,2900,Outer
+Pink Salmon,Taylor Bay Creeks,5800,13000,Outer
+Pink Salmon,Windy Bay Left Creek,12400,27800,Outer
+Pink Salmon,Windy Bay Right Creek,5300,11800,Outer
+Pink Salmon,Amakdedori Creek,800,3400,Kamishak
+Pink Salmon,Brown's Peak Creek,4800,20700,Kamishak
+Pink Salmon,Bruin River,24100,103400,Kamishak
+Pink Salmon,Little Kamishak River,700,2900,Kamishak
+Pink Salmon,Sunday Creek,4600,19600,Kamishak
+Sockeye Salmon,English Bay Lakes,6300,12200,Southern
+Sockeye Salmon,Delight Lake,5100,10600,Outer
+Sockeye Salmon,Desire Lake,4800,11900,Outer
+Sockeye Salmon,Bear Lake,600,8600,Outer
+Sockeye Salmon,Aialik Lake,3200,5400,Outer
+Sockeye Salmon,Mikfik Lake,3400,11000,Kamishak
+Sockeye Salmon,Chenik Lake,2900,13700,Kamishak
+Sockeye Salmon,Amakdedori Creek,1200,2600,Kamishak
